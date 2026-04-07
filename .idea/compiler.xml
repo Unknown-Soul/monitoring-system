@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="sampleOne" />
         <module name="batchSample" />
+        <module name="micrometer_sample" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="batchSample" options="-parameters" />
+      <module name="micrometer_sample" options="-parameters" />
       <module name="sampleOne" options="-parameters" />
     </option>
   </component>

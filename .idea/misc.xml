@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/sample1/pom.xml" />
         <option value="$PROJECT_DIR$/batchSample/pom.xml" />
+        <option value="$PROJECT_DIR$/micrometer_sample/pom.xml" />
       </list>
     </option>
   </component>
